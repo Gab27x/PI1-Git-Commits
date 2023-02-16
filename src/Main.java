@@ -4,6 +4,10 @@ public class Main {
             //FOR INUTIL
             System.out.println(i);
         }
-        System.out.println("Hello world!");
+
+        System.out.println(cars);
+
+        System.out.println("Ahh");
     }
 }
+
